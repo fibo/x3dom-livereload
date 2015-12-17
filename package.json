@@ -8,8 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fibo/x3dom-livereload.git"
+    "url": "git://github.com/fibo/x3dom-livereload.git"
   },
+  "keywords": [
+    "x3dom",
+    "livereload",
+    "3d"
+  ],
   "author": {
     "name": "Gianluca Casati",
     "url": "http://g14n.info"

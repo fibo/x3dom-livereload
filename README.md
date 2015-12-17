@@ -2,7 +2,7 @@
 
 > x3dom boilerplate with [livereload][2] server
 
-Copy and paste the following code into a terminal
+First install [Node.js][3]. Then copy and paste the following code into a terminal
 
 ```
 npm install -g grunt-cli
@@ -18,3 +18,4 @@ magically without reloading your browser, thanks to [livereload][2].
 
   [1]: http://www.x3dom.org/ "x3dom"
   [2]: http://livereload.com/ "livereload"
+  [3]: https://nodejs.org/ "Node.js"
