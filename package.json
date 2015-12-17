@@ -1,7 +1,7 @@
 {
   "name": "x3dom-livereload",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "x3dom boilerplate with livereload server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/fibo/x3dom-livereload.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Gianluca Casati",
+    "url": "http://g14n.info"
+  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/fibo/x3dom-livereload/issues"
   },
