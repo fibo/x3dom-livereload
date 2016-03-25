@@ -1,6 +1,6 @@
 {
   "name": "x3dom-livereload",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "is an x3dom tiny boilerplate with a livereload server",
   "main": "index.html",
   "scripts": {
