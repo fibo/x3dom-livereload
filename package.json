@@ -29,6 +29,7 @@
   "homepage": "http://g14n.info/x3dom-livereload",
   "dependencies": {
     "budo": "^9.3.0",
+    "npm-start-command": "^0.1.1",
     "x3dom": "^1.7.2"
   }
 }
